@@ -84,9 +84,9 @@ I am active on LinkedIN and Discord as well. You can reach out to me I will be h
    <a href="#" > <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="linktree" /> </a>
 </div>  -->
    
-<!--    <h1 align="center">My Github Stats</h1>
+     <!-- <h1 align="center">My Github Stats</h1>-->
 
-<table>
+<!--<table>
   <tr>
      <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=gaurav4code&show_icons=true&theme=dracula" alt="gaurav4code" /></td>
      <td><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gaurav4code&show_icons=true&locale=en&layout=compact" alt="gaurav4code" /></td>
