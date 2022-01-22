@@ -1,15 +1,15 @@
-<!-- ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png) -->
+ ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png) 
+
+
+#### <h1>Hi, I am Gaurav! Great to see you here!</h1> 
 
 <!-- 
-#### <h1>Hi, I am Gaurav! Great to see you here!</h1>  -->
-
-<!--
-**Gaurav4code/Gaurav4code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Gaurav4code/Gaurav4code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 Here are some ideas to get you Started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning React, MongoDB ,ExpressJs
+<!-- - 🔭 I’m currently working on UI/UX Designs
+- 🌱 I’m currently learning React, MongoDB ,ExpressJs, DSA
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -18,10 +18,11 @@ Here are some ideas to get you Started:
 - ⚡ Fun fact: ..
 -->
 
-<!-- 
+
+
 A bit about Myself, I am <b>Gaurav</b>  a  2nd year <b>Computer Science student</b> . As of now, I am focused on <b>web development and UI/UX design</b> but still, wish to explore many fields. I have done open source contribution in WOC 2.0  as well ⚡
 
-<h3 align="center">A Passionate Web Developer | UI/UX Designer | Contributor </h3>
+<h3 align="center">A Passionate Web Developer | UI Designer | Contributor </h3>
 
 <h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=gaurav4code&label=Profile%20views&color=6805D3&style=flat" alt="profileviews" /> </p></h3>
    <div align="center">
@@ -37,7 +38,7 @@ I am learning web development and having knowledge of HTML, CSS, Javascript, Nod
  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />   
    <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
    <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
-          <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" /> -->
+   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" /> 
 <!--          <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" /> -->
 <!-- <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" />
 
@@ -83,10 +84,10 @@ I am active on LinkedIN and Discord as well. You can reach out to me I will be h
 <a href="gauravsing1195@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
    <a href="#" > <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="linktree" /> </a>
 </div>  -->
-   
-     <!-- <h1 align="center">My Github Stats</h1> -->
+   <h1>My Github Stats </h1>
+  
 
-<!--<table>
+<table>
   <tr>
      <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=gaurav4code&show_icons=true&theme=dracula" alt="gaurav4code" /></td>
      <td><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gaurav4code&show_icons=true&locale=en&layout=compact" alt="gaurav4code" /></td>
@@ -98,7 +99,7 @@ I am active on LinkedIN and Discord as well. You can reach out to me I will be h
    </div>
 
  [![Gaurav's github activity graph](https://activity-graph.herokuapp.com/graph?username=gaurav4code&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-    -->
+    
   
 
 
