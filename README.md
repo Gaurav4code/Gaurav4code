@@ -20,16 +20,16 @@ Here are some ideas to get you Started:
 
 
 
-A bit about Myself, I am <b>Gaurav</b>  a  2nd year <b>Computer Science student</b> . As of now, I am focused on <b>web development and UI/UX design</b> but still, wish to explore many fields. I have done open source contribution in WOC 2.0  as well ⚡
+Hello, I'm Gaurav, a Data Science and Engineering student at NIT Patna. My academic journey is centered around Machine Learning, Data Science, and Artificial Intelligence. I've actively contributed to open-source projects, notably participating in WOC 2.0, which has enriched my practical experience in the field.
 
-<h3 align="center">A Passionate Web Developer | UI Designer | Contributor </h3>
+<!--- <h3 align="center">A Passionate Web Developer | UI Designer | Contributor </h3> !-->
 
 <h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=gaurav4code&label=Profile%20views&color=6805D3&style=flat" alt="profileviews" /> </p></h3>
    <div align="center">
 
 <h1>Technical Skills <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h1>
    
-I am learning web development and having knowledge of HTML, CSS, Javascript, NodeJS and MongoDB. Currently, I am learning MERN and UI/UX Design. Beside that I also have knowledge of C++.
+In terms of technical skills, I'm proficient in Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, and TensorFlow/Keras. I'm currently exploring Deep Learning, Pattern Recognition, CNN and Natural Language Processing to further deepen my expertise.
 
 <p align=""> 
 
